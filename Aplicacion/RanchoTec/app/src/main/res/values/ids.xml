@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="idEditText" type="id" />
+    <item name="especieEditText" type="id" />
+    <item name="razaEditText" type="id" />
+    <item name="nombreEditText" type="id" />
+    <item name="fechaNacimientoEditText" type="id" />
+    <item name="sexoEditText" type="id" />
+    <item name="historialVacunacionEditText" type="id" />
+    <item name="colorEditText" type="id" />
+    <item name="guardarButton" type="id" />
+</resources>
